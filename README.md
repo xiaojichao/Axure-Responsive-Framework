@@ -1,6 +1,6 @@
 ## Axure responsive prototype framework
 
-The Axure files in the this folder are related to the article [How to create a responsive prototype in Axure [Tutorial] [Tutorial]](http://www.theinteractive.it/2013/02/how-to-create-a-responsive-prototype-in-axure-tutorial/) curated by [The Interactive](http://www.theinteractive.it).
+The Axure files in the this folder are related to the article [How to create a responsive prototype in Axure [Tutorial]](http://www.theinteractive.it/2013/02/how-to-create-a-responsive-prototype-in-axure-tutorial/) curated by [The Interactive](http://www.theinteractive.it).
 
 The folder contains:
 
